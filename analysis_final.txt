@@ -1,0 +1,23 @@
+Analyzing interface_editor.dart...                              
+
+   info • The private field _jsonController could be 'final' • lib/ui/interface/interface_editor.dart:24:25 • prefer_final_fields
+   info • The private field _isLayoutMode could be 'final' • lib/ui/interface/interface_editor.dart:36:8 • prefer_final_fields
+   info • 'surfaceVariant' is deprecated and shouldn't be used. Use surfaceContainerHighest instead. This feature was deprecated after v3.18.0-0.1.pre • lib/ui/interface/interface_editor.dart:337:44 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/ui/interface/interface_editor.dart:384:59 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/ui/interface/interface_editor.dart:406:50 • deprecated_member_use
+   info • 'surfaceVariant' is deprecated and shouldn't be used. Use surfaceContainerHighest instead. This feature was deprecated after v3.18.0-0.1.pre • lib/ui/interface/interface_editor.dart:497:42 • deprecated_member_use
+   info • Don't invoke 'print' in production code • lib/ui/interface/interface_editor.dart:530:49 • avoid_print
+   info • Don't invoke 'print' in production code • lib/ui/interface/interface_editor.dart:536:51 • avoid_print
+   info • Don't invoke 'print' in production code • lib/ui/interface/interface_editor.dart:538:51 • avoid_print
+   info • Statements in an if should be enclosed in a block • lib/ui/interface/interface_editor.dart:1120:7 • curly_braces_in_flow_control_structures
+   info • Statements in an if should be enclosed in a block • lib/ui/interface/interface_editor.dart:1122:7 • curly_braces_in_flow_control_structures
+   info • Statements in an if should be enclosed in a block • lib/ui/interface/interface_editor.dart:1132:47 • curly_braces_in_flow_control_structures
+   info • Statements in an if should be enclosed in a block • lib/ui/interface/interface_editor.dart:1411:11 • curly_braces_in_flow_control_structures
+   info • Statements in an if should be enclosed in a block • lib/ui/interface/interface_editor.dart:1413:11 • curly_braces_in_flow_control_structures
+   info • 'value' is deprecated and shouldn't be used. Use component accessors like .r or .g, or toARGB32 for an explicit conversion • lib/ui/interface/interface_editor.dart:1423:28 • deprecated_member_use
+   info • Statements in an if should be enclosed in a block • lib/ui/interface/interface_editor.dart:2084:7 • curly_braces_in_flow_control_structures
+   info • Statements in an if should be enclosed in a block • lib/ui/interface/interface_editor.dart:2086:7 • curly_braces_in_flow_control_structures
+   info • Statements in an if should be enclosed in a block • lib/ui/interface/interface_editor.dart:2284:9 • curly_braces_in_flow_control_structures
+   info • 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre • lib/ui/interface/interface_editor.dart:2373:13 • deprecated_member_use
+
+19 issues found. (ran in 2.9s)
